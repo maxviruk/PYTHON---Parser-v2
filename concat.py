@@ -1,5 +1,5 @@
 # Задаём имя входного файла и готовим SQL-запрос
-input_file = 'output1.txt'
+input_file = 'output.txt'
 output_sql_file = 'insert_data.sql'
 
 # Читаем содержимое текстового файла
